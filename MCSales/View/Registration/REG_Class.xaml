@@ -1,0 +1,72 @@
+﻿<Window x:Name="REG_Class_Screen" x:Class="MCSales.View.Registration.REG_Class"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MCSales.View.Registration"
+        mc:Ignorable="d"
+        Title="Cadastrar Aula" Height="368" Width="1024" Icon="/MCSales;component/Images/Icons/logo.png" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Background="#FFD2D6DE">
+
+    <!-- Remove button hover property-->
+    <Window.Resources>
+        <Style x:Key="NoHover" TargetType="Button">
+            <Setter Property="OverridesDefaultStyle" Value="True" />
+            <Setter Property="Cursor" Value="Hand" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Name="border" BorderThickness="0" BorderBrush="Black" Background="{TemplateBinding Background}">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Opacity" Value="0.8" />
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <!-- End of property-->
+
+    <Grid>
+        <Image x:Name="imgHeader" HorizontalAlignment="Left" Height="128" VerticalAlignment="Top" Width="600" Source="/MCSales;component/Images/Icons/header.png" Margin="10,10,0,0"/>
+        <Label x:Name="lblTeacher" Content="Professor:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="34,168,0,0" FontSize="14" Width="117"/>
+        <ComboBox x:Name="cbxTeacher" HorizontalAlignment="Left" VerticalAlignment="Top" Width="213" Margin="163,174,0,0" SelectionChanged="cbxTeacher_SelectionChanged"/>
+        <Label x:Name="lblClassesCount" Content="Aulas na Semana:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="398,165,0,0" FontSize="14"/>
+        <Label x:Name="lblDate" Content="Dias na Semana:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="398,194,0,0" FontSize="14" Width="117"/>
+        <ComboBox x:Name="cbxDate" SelectedValuePath="Content" HorizontalAlignment="Left" VerticalAlignment="Top" Width="214" Margin="526,200,0,0" DropDownClosed="cbxDate_DropDownClosed" SelectedIndex="5">
+            <ComboBoxItem x:Name="_segunda" Content="Segunda" Selected="_segunda_Selected"/>
+            <ComboBoxItem x:Name="_terca" Content="Terça" Selected="_terca_Selected"/>
+            <ComboBoxItem x:Name="_quarta" Content="Quarta" Selected="_quarta_Selected"/>
+            <ComboBoxItem x:Name="_quinta" Content="Quinta" Selected="_quinta_Selected"/>
+            <ComboBoxItem x:Name="_sexta" Content="Sexta" Selected="_sexta_Selected"/>
+            <ComboBoxItem x:Name="_sabado" Content="Sábado" Selected="_sabado_Selected"/>
+            <ComboBoxItem x:Name="_segundaQuarta" Content="Segunda e Quarta" Visibility="Collapsed" Selected="_segundaQuarta_Selected"/>
+            <ComboBoxItem x:Name="_terçaQuinta" Content="Terça e Quinta" Visibility="Collapsed" Selected="_terçaQuinta_Selected"/>
+        </ComboBox>
+        <Label x:Name="lblClassDuration" Content="Tempo por aula:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="34,193,0,0" FontSize="14"/>
+        <Button x:Name="btnRegisterClass" Content="Cadastrar" HorizontalAlignment="Left" VerticalAlignment="Top" Width="135" Height="27" Foreground="White" Background="#FF18A55D" Margin="380,281,0,0" Click="btnRegisterClass_Click" Style="{StaticResource NoHover}" ToolTip="Cadastrar aula."/>
+        <Button x:Name="btnCancel" Content="Cancelar" HorizontalAlignment="Left" VerticalAlignment="Top" Width="135" Height="27" Foreground="White" Background="#FFA51818" Click="btnCancel_Click" Margin="520,281,0,0" Style="{StaticResource NoHover}" ToolTip="Cancelar cadastro."/>
+        <Separator HorizontalAlignment="Left" Height="89" Margin="0,106,0,0" VerticalAlignment="Top" Width="1018"/>
+        <Separator HorizontalAlignment="Left" Height="28" Margin="0,253,0,0" VerticalAlignment="Top" Width="1018"/>
+        <xctk:IntegerUpDown x:Name="_numClass" HorizontalAlignment="Left" Value="1" Increment="1" Maximum="2" Minimum="1" VerticalAlignment="Top" Width="214" Margin="526,168,0,0" LostFocus="_numClass_LostFocus" FontWeight="Bold"/>
+        <xctk:IntegerUpDown x:Name="_numDuration" HorizontalAlignment="Left" Value="1" Increment="1" Maximum="2" Minimum="1" VerticalAlignment="Top" Width="211" Margin="163,200,0,0" FontWeight="Bold"/>
+        <Label x:Name="lblTime" Content="Horário:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="746,194,0,0" FontSize="14" Width="76"/>
+        <Label x:Name="lblDaysOfWeek" Content="[Dias que tem aula]" HorizontalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="827,155,0,0" FontSize="14" Width="181" Foreground="#FFA51818" FontWeight="Bold"/>
+        <ComboBox x:Name="cbxType" SelectedValuePath="Content" HorizontalAlignment="Left" VerticalAlignment="Top" Width="213" Margin="163,225,0,0" DropDownClosed="cbxDate_DropDownClosed" SelectedIndex="5">
+            <ComboBoxItem x:Name="_ingles" Content="Inglês" Selected="_ingles_Selected"/>
+            <ComboBoxItem x:Name="_interativo" Content="Interativo" Selected="_interativo_Selected"/>
+            <ComboBoxItem x:Name="_hardware" Content="Hardware" Selected="_hardware_Selected"/>
+            <ComboBoxItem x:Name="_games" Content="Games" Selected="_games_Selected"/>
+            <ComboBoxItem x:Name="_informatica" Content="Informática" Selected="_informatica_Selected"/>
+            <ComboBoxItem x:Name="_adm" Content="Administração" Selected="_adm_Selected"/>
+        </ComboBox>
+        <Label x:Name="lblType" Content="Dias na Semana:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="36,219,0,0" FontSize="14" Width="117"/>
+        <xctk:TimePicker x:Name="_pickerStarts" Value="{Binding CurrentDateTime}" Margin="827,191,98,111"/>
+        <xctk:TimePicker x:Name="_pickerEnds" Value="{Binding CurrentDateTime}" Margin="920,191,10,111"/>
+
+    </Grid>
+</Window>

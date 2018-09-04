@@ -1,0 +1,122 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MCSales.View"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit" x:Name="MCSales" x:Class="MCSales.View.ACTIndex"
+        mc:Ignorable="d"
+        Title="MC Vendas" Height="768" Width="1366" Background="#FFD2D6DE" Icon="/MCSales;component/Images/Icons/logo.png" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" WindowState="Maximized" WindowStyle="None">
+
+    <!-- Remove button hover property-->
+    <Window.Resources>
+        <Style x:Key="NoHover" TargetType="Button">
+            <Setter Property="OverridesDefaultStyle" Value="True" />
+            <Setter Property="Cursor" Value="Hand" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Name="border" BorderThickness="0" BorderBrush="Black" Background="{TemplateBinding Background}">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Opacity" Value="0.8" />
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <!-- End of property-->
+
+    <Viewbox>
+        <Grid>
+            <Canvas x:Name="CanvasHeader" HorizontalAlignment="Left" Height="77" VerticalAlignment="Top" Width="1360" Margin="0,125,0,0" Background="#FF666666" Opacity="0.4"/>
+            <Image x:Name="imgHeader" HorizontalAlignment="Left" Height="158" VerticalAlignment="Top" Width="527" Source="/MCSales;component/Images/Icons/header.png"/>
+            <Image x:Name="imgAdm" HorizontalAlignment="Left" Height="37" VerticalAlignment="Top" Width="52" Margin="10,152,0,0" Source="/MCSales;component/Images/Icons/Cursos/adm.png"/>
+            <Image x:Name="imgInfo" HorizontalAlignment="Left" Height="37" VerticalAlignment="Top" Width="52" Margin="62,152,0,0" Source="/MCSales;component/Images/Icons/Cursos/info.png"/>
+            <Image x:Name="imgAbc" HorizontalAlignment="Left" Height="37" VerticalAlignment="Top" Width="52" Margin="114,152,0,0" Source="/MCSales;component/Images/Icons/Cursos/abc.png"/>
+            <Image x:Name="imgVip" HorizontalAlignment="Left" Height="37" VerticalAlignment="Top" Width="52" Margin="166,152,0,0" Source="/MCSales;component/Images/Icons/Cursos/vip.png"/>
+            <Image x:Name="imgHw" HorizontalAlignment="Left" Height="37" VerticalAlignment="Top" Width="52" Margin="218,152,0,0" Source="/MCSales;component/Images/Icons/Cursos/hw.png"/>
+            <Image x:Name="imgTi" HorizontalAlignment="Left" Height="37" VerticalAlignment="Top" Width="52" Margin="270,152,0,0" Source="/MCSales;component/Images/Icons/Cursos/ti.png"/>
+            <Image x:Name="imgWeb" HorizontalAlignment="Left" Height="37" VerticalAlignment="Top" Width="52" Margin="322,152,0,0" Source="/MCSales;component/Images/Icons/Cursos/web.png"/>
+            <Button x:Name="btnCRUD_student" Content="Alunos" HorizontalAlignment="Left" VerticalAlignment="Top" Width="135" Height="40" Foreground="White" Background="#FF18A55D" Margin="1188,144,0,0" Click="btnCRUD_student_Click" Style="{StaticResource NoHover}" ToolTip="Alunos."/>
+            <Button x:Name="btnCRUD_user" Content="Usuários" HorizontalAlignment="Left" VerticalAlignment="Top" Width="135" Height="40" Foreground="White" Background="#FF18A55D" Margin="908,144,0,0" Click="btnCRUD_user_Click" Style="{StaticResource NoHover}" ToolTip="Usuários."/>
+            <Canvas x:Name="CanvasMonday" HorizontalAlignment="Left" Height="192" VerticalAlignment="Top" Width="190" Margin="743,278,0,0" Background="White">
+                <Label x:Name="lblMonday" Content="Segunda" HorizontalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="#F8666666" FontWeight="Bold" FontSize="24" Canvas.Left="36" Canvas.Top="10"/>
+                <Button x:Name="btnMondayVacancys" Content="Ver Vagas" HorizontalAlignment="Left" VerticalAlignment="Top" Width="115" Height="37" Foreground="White" Background="#FF1878A5" Canvas.Left="36" Canvas.Top="116" Click="btnMondayVacancys_Click" Style="{StaticResource NoHover}" ToolTip="Ver vagas de segunda-feira."/>
+                <Label x:Name="lblMondayVacancys" HorizontalContentAlignment="Center" Content="10" Canvas.Left="36" Canvas.Top="58" Width="115" Foreground="Red" FontSize="24"/>
+            </Canvas>
+            <Canvas x:Name="CanvasTuesday" HorizontalAlignment="Left" Height="192" VerticalAlignment="Top" Width="190" Margin="938,278,0,0" Background="White">
+                <Label x:Name="lblTuesday" Content="Terça" HorizontalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="#F8666666" FontWeight="Bold" FontSize="24" Canvas.Left="36" Canvas.Top="10" Width="115"/>
+                <Button x:Name="btnTuesdayVacancys" Content="Ver Vagas" HorizontalAlignment="Left" VerticalAlignment="Top" Width="115" Height="37" Foreground="White" Background="#FF1878A5" Canvas.Left="36" Canvas.Top="116" Click="btnTuesdayVacancys_Click" Style="{StaticResource NoHover}" ToolTip="Ver vagas de terça-feira."/>
+                <Label x:Name="lblTuesdayVacancys" HorizontalContentAlignment="Center" Content="10" Canvas.Left="36" Canvas.Top="58" Width="115" Foreground="Red" FontSize="24"/>
+            </Canvas>
+            <Canvas x:Name="CanvasWednesday" HorizontalAlignment="Left" Height="192" VerticalAlignment="Top" Width="190" Margin="1133,278,0,0" Background="White">
+                <Label x:Name="lblWednesday" Content="Quarta" HorizontalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="#F8666666" FontWeight="Bold" FontSize="24" Canvas.Left="36" Canvas.Top="10" Width="115"/>
+                <Button x:Name="btnWednesdayVavancys" Content="Ver Vagas" HorizontalAlignment="Left" VerticalAlignment="Top" Width="115" Height="37" Foreground="White" Background="#FF1878A5" Canvas.Left="36" Canvas.Top="116" Click="btnWednesdayVavancys_Click" Style="{StaticResource NoHover}" ToolTip="Ver vagas de quarta-feira."/>
+                <Label x:Name="lblWednesdayVacancys" HorizontalContentAlignment="Center" Content="10" Canvas.Left="36" Canvas.Top="58" Width="115" Foreground="Red" FontSize="24"/>
+            </Canvas>
+            <Canvas x:Name="CanvasThursday" HorizontalAlignment="Left" Height="192" VerticalAlignment="Top" Width="190" Margin="743,474,0,0" Background="White">
+                <Label x:Name="lblThursday" Content="Quinta" HorizontalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="#F8666666" FontWeight="Bold" FontSize="24" Canvas.Left="36" Canvas.Top="10" Width="115"/>
+                <Button x:Name="btnThursdayVacancys" Content="Ver Vagas" HorizontalAlignment="Left" VerticalAlignment="Top" Width="115" Height="37" Foreground="White" Background="#FF1878A5" Canvas.Left="36" Canvas.Top="116" Click="btnThursdayVacancys_Click" Style="{StaticResource NoHover}" ToolTip="Ver vagas de quinta-feira."/>
+                <Label x:Name="lblThursdayVacancys" HorizontalContentAlignment="Center" Content="10" Canvas.Left="36" Canvas.Top="58" Width="115" Foreground="Red" FontSize="24"/>
+            </Canvas>
+            <Canvas x:Name="CanvasFriday" HorizontalAlignment="Left" Height="192" VerticalAlignment="Top" Width="190" Margin="938,474,0,0" Background="White">
+                <Label x:Name="lblFriday" Content="Sexta" HorizontalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="#F8666666" FontWeight="Bold" FontSize="24" Canvas.Left="36" Canvas.Top="10" Width="115"/>
+                <Button x:Name="btnFridayVacancys" Content="Ver Vagas" HorizontalAlignment="Left" VerticalAlignment="Top" Width="115" Height="37" Foreground="White" Background="#FF1878A5" Canvas.Left="36" Canvas.Top="116" Click="btnFridayVacancys_Click" Style="{StaticResource NoHover}" ToolTip="Ver vagas de sexta-feira."/>
+                <Label x:Name="lblFridayVacancys" HorizontalContentAlignment="Center" Content="10" Canvas.Left="36" Canvas.Top="58" Width="115" Foreground="Red" FontSize="24"/>
+            </Canvas>
+            <Canvas x:Name="CanvasSaturday" HorizontalAlignment="Left" Height="192" VerticalAlignment="Top" Width="190" Margin="1133,474,0,0" Background="White">
+                <Label x:Name="lblSaturday" Content="Sábado" HorizontalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="#F8666666" FontWeight="Bold" FontSize="24" Canvas.Left="36" Canvas.Top="10" Width="115"/>
+                <Button x:Name="btnSaturdayVacancys" Content="Ver Vagas" HorizontalAlignment="Left" VerticalAlignment="Top" Width="115" Height="37" Foreground="White" Background="#FF1878A5" Canvas.Left="36" Canvas.Top="116" Click="btnSaturdayVacancys_Click" Style="{StaticResource NoHover}" ToolTip="Ver vagas de sábado."/>
+                <Label x:Name="lblSaturdayVacancys" HorizontalContentAlignment="Center" Content="10" Canvas.Left="36" Canvas.Top="58" Width="115" Foreground="Red" FontSize="24"/>
+            </Canvas>
+            <Button x:Name="btnCRUD_class" Content="Turmas" HorizontalAlignment="Left" VerticalAlignment="Top" Width="135" Height="40" Foreground="White" Background="#FF18A55D" Margin="1048,144,0,0" Click="btnCRUD_class_Click" Style="{StaticResource NoHover}" ToolTip="Turmas."/>
+            <Canvas HorizontalAlignment="Left" Height="388" VerticalAlignment="Top" Width="694" Margin="14,278,0,0">
+                <DataGrid x:Name="tblStudents" HorizontalAlignment="Left" VerticalAlignment="Top" Height="224" Width="674" Background="White" Canvas.Left="10" Canvas.Top="154">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn x:Name="ColumnCod" Header="CTR"  Width="50" Binding="{Binding Student_ctr.}" />
+                        <DataGridTextColumn x:Name="ColumnName" Header="Nome"  Width="*" Binding="{Binding Student_name}" />
+                        <DataGridTextColumn x:Name="ColumnSubscribeDay" Header="Data de Inscrição"  Width="*" Binding="{Binding Student_subscriptionDate}" />
+                        <DataGridTextColumn x:Name="ColumnClassDay" Header="Aula"  Width="*" Binding="{Binding Class_id}" />
+                    </DataGrid.Columns>
+                </DataGrid>
+                <Label x:Name="label" Content="" Width="694" Height="71" Background="#FF18A55D"/>
+                <Image x:Name="imgHeaderClass" HorizontalAlignment="Left" Height="61" VerticalAlignment="Top" Width="527" Source="/MCSales;component/Images/Icons/header.png" Canvas.Left="10" Canvas.Top="10"/>
+                <Border BorderBrush="#FF18A55D" BorderThickness="1" Height="388" Width="694"/>
+                <Label x:Name="lblTeacher" Content="Professor:" HorizontalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="#F8666666" FontWeight="Bold" FontSize="20" Margin="9,89,0,0"/>
+                <Label x:Name="lblTime" Content="Horário:" HorizontalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="#F8666666" FontWeight="Bold" FontSize="20" Canvas.Left="298" Canvas.Top="89"/>
+            </Canvas>
+            <Label x:Name="headeMenu" Background="#FF18A55D" Margin="908,10,37,600"/>
+            <Button x:Name="btnLogOut" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="34" Height="36" Foreground="{x:Null}" Click="btnLogOut_Click" BorderBrush="{x:Null}" Style="{StaticResource NoHover}" Margin="1274,18,0,0" ToolTip="Sair do sistema.">
+                <Button.Background>
+                    <ImageBrush ImageSource="/MCSales;component/Images/Icons/logout.png"/>
+                </Button.Background>
+            </Button>
+            <Label x:Name="lblWellcome" Content="Bem-Vindo, Fernando!" HorizontalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="922,18,0,0" Height="36" Width="347" FontSize="20" Foreground="White"/>
+            <Label x:Name="lblTeacher_Name" Content="" HorizontalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="#F8000000" FontWeight="Bold" FontSize="20" Margin="142,367,0,0"/>
+            <Label x:Name="lblClass_Time" Content="" HorizontalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="#F8000000" FontWeight="Bold" FontSize="20" Margin="406,367,0,0"/>
+            <Button x:Name="btnViewCurrentClass" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="49" Margin="646,291,0,0" Height="47" BorderBrush="{x:Null}" Foreground="{x:Null}" Style="{StaticResource NoHover}" Click="btnViewCurrentClass_Click" ToolTip="Cadastrar novo aluno nesta aula." Visibility="Hidden">
+                <Button.Background>
+                    <ImageBrush ImageSource="/MCSales;component/Images/Icons/menu.png"/>
+                </Button.Background>
+            </Button>
+            <Label x:Name="lblCount" Content="0" HorizontalAlignment="Left" Margin="661,391,0,0" VerticalAlignment="Top" Foreground="#FF18A55D" FontSize="18" Width="34"/>
+            <Label x:Name="lblRegistersFound" Content="Aunos cadastrados:" HorizontalAlignment="Left" Margin="502,393,0,0" VerticalAlignment="Top" FontSize="16"/>
+            <Label x:Name="lblCount_Vacancy" Content="0" HorizontalAlignment="Left" Margin="86,394,0,0" VerticalAlignment="Top" Foreground="Red" FontSize="18" Width="34"/>
+            <Label x:Name="lblVacancys" Content="Vagas:" HorizontalAlignment="Left" Margin="26,394,0,0" VerticalAlignment="Top" FontSize="16"/>
+            <Label x:Name="lblDay" Content="Dia da Semana" HorizontalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="#F8FFFFFF" FontWeight="Bold" FontSize="20" Margin="279,291,0,0" Height="47" Width="239" Background="{x:Null}" Visibility="Hidden"/>
+            <Button x:Name="btnResetTable" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="49" Margin="592,291,0,0" Height="47" BorderBrush="{x:Null}" Foreground="{x:Null}" Style="{StaticResource NoHover}" Click="btnResetTable_Click" ToolTip="Limpar dados da pesquisa." Visibility="Hidden">
+                <Button.Background>
+                    <ImageBrush ImageSource="/MCSales;component/Images/Icons/backspace-arrow.png"/>
+                </Button.Background>
+            </Button>
+            <Label x:Name="lblNoVancacys" Content="Não há vagas diposníveis nesse horário." HorizontalAlignment="Left" VerticalAlignment="Top" Margin="24,456,0,0" Width="246" Height="33" Visibility="Hidden"/>
+
+
+        </Grid>
+    </Viewbox>
+</Window>

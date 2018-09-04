@@ -1,0 +1,84 @@
+c:\users\gamestation\documents\visual studio 2015\Projects\MCSales\MCSales\bin\Debug\MCSales.exe.config
+c:\users\gamestation\documents\visual studio 2015\Projects\MCSales\MCSales\bin\Debug\MCSales.exe
+c:\users\gamestation\documents\visual studio 2015\Projects\MCSales\MCSales\bin\Debug\MCSales.pdb
+c:\users\gamestation\documents\visual studio 2015\Projects\MCSales\MCSales\bin\Debug\Xceed.Wpf.AvalonDock.dll
+c:\users\gamestation\documents\visual studio 2015\Projects\MCSales\MCSales\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+c:\users\gamestation\documents\visual studio 2015\Projects\MCSales\MCSales\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+c:\users\gamestation\documents\visual studio 2015\Projects\MCSales\MCSales\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+c:\users\gamestation\documents\visual studio 2015\Projects\MCSales\MCSales\bin\Debug\Xceed.Wpf.DataGrid.dll
+c:\users\gamestation\documents\visual studio 2015\Projects\MCSales\MCSales\bin\Debug\Xceed.Wpf.Toolkit.dll
+c:\users\gamestation\documents\visual studio 2015\Projects\MCSales\MCSales\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+c:\users\gamestation\documents\visual studio 2015\Projects\MCSales\MCSales\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+c:\users\gamestation\documents\visual studio 2015\Projects\MCSales\MCSales\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+c:\users\gamestation\documents\visual studio 2015\Projects\MCSales\MCSales\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+c:\users\gamestation\documents\visual studio 2015\Projects\MCSales\MCSales\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+c:\users\gamestation\documents\visual studio 2015\Projects\MCSales\MCSales\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+c:\users\gamestation\documents\visual studio 2015\Projects\MCSales\MCSales\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+c:\users\gamestation\documents\visual studio 2015\Projects\MCSales\MCSales\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+c:\users\gamestation\documents\visual studio 2015\Projects\MCSales\MCSales\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+c:\users\gamestation\documents\visual studio 2015\Projects\MCSales\MCSales\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+c:\users\gamestation\documents\visual studio 2015\Projects\MCSales\MCSales\obj\Debug\View\ACTLogin.g.cs
+c:\users\gamestation\documents\visual studio 2015\Projects\MCSales\MCSales\obj\Debug\Controller\App.g.cs
+c:\users\gamestation\documents\visual studio 2015\Projects\MCSales\MCSales\obj\Debug\MCSales_MarkupCompile.cache
+c:\users\gamestation\documents\visual studio 2015\Projects\MCSales\MCSales\obj\Debug\MCSales_MarkupCompile.lref
+c:\users\gamestation\documents\visual studio 2015\Projects\MCSales\MCSales\obj\Debug\View\ACTLogin.baml
+c:\users\gamestation\documents\visual studio 2015\Projects\MCSales\MCSales\obj\Debug\MCSales.g.resources
+c:\users\gamestation\documents\visual studio 2015\Projects\MCSales\MCSales\obj\Debug\MCSales.Properties.Resources.resources
+c:\users\gamestation\documents\visual studio 2015\Projects\MCSales\MCSales\obj\Debug\MCSales.csproj.GenerateResource.Cache
+c:\users\gamestation\documents\visual studio 2015\Projects\MCSales\MCSales\obj\Debug\MCSales.exe
+c:\users\gamestation\documents\visual studio 2015\Projects\MCSales\MCSales\obj\Debug\MCSales.pdb
+c:\users\gamestation\documents\visual studio 2015\Projects\MCSales\MCSales\obj\Debug\View\ACTIndex.g.cs
+c:\users\gamestation\documents\visual studio 2015\Projects\MCSales\MCSales\obj\Debug\View\ACTIndex.baml
+C:\Users\GAMESTATION\documents\visual studio 2015\Projects\MCSales\MCSales\bin\Debug\MySql.Data.dll
+C:\Users\GAMESTATION\documents\visual studio 2015\Projects\MCSales\MCSales\obj\Debug\View\CRUD\CRUD_user.g.cs
+C:\Users\GAMESTATION\documents\visual studio 2015\Projects\MCSales\MCSales\obj\Debug\View\CRUD\CRUD_user.baml
+C:\Users\GAMESTATION\documents\visual studio 2015\Projects\MCSales\MCSales\obj\Debug\View\Registration\REG_user.g.cs
+C:\Users\GAMESTATION\documents\visual studio 2015\Projects\MCSales\MCSales\obj\Debug\View\Registration\REG_user.baml
+C:\Users\GAMESTATION\documents\visual studio 2015\Projects\MCSales\MCSales\obj\Debug\MCSales.csprojResolveAssemblyReference.cache
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\MCSales.exe.config
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\MCSales.exe
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\MCSales.pdb
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\View\ACTIndex.g.cs
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\View\ACTLogin.g.cs
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\View\CRUD\CRUD_class.g.cs
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\View\CRUD\CRUD_student.g.cs
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\View\CRUD\CRUD_user.g.cs
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\View\Registration\REG_user.g.cs
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\Controller\App.g.cs
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\MCSales_MarkupCompile.cache
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\MCSales_MarkupCompile.lref
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\MCSales.exe
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\MCSales.pdb
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\MySql.Data.dll
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\View\ACTIndex.baml
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\View\ACTLogin.baml
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\View\CRUD\CRUD_class.baml
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\View\CRUD\CRUD_student.baml
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\View\CRUD\CRUD_user.baml
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\View\Registration\REG_user.baml
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\MCSales.g.resources
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\MCSales.Properties.Resources.resources
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\MCSales.csproj.GenerateResource.Cache
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\View\Registration\REG_Class.g.cs
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\View\Registration\REG_Class.baml
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\MCSales.csprojResolveAssemblyReference.cache
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\View\Registration\REG_student.g.cs
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\View\Registration\REG_student.baml
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\Correios.Net.dll
+C:\Users\GAMESTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\Correios.Net.pdb

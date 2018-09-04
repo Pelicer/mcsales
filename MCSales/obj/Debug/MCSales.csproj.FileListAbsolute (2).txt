@@ -1,0 +1,141 @@
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\MCSales.exe.config
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\MCSales.exe
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\MCSales.pdb
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\MCSales.exe
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\MCSales.pdb
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\Correios.Net.dll
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\MySql.Data.dll
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\Correios.Net.pdb
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\MCSales.csprojResolveAssemblyReference.cache
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\View\ACTIndex.g.cs
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\View\ACTLogin.g.cs
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\View\CRUD\CRUD_class.g.cs
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\View\CRUD\CRUD_student.g.cs
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\View\CRUD\CRUD_user.g.cs
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\View\Registration\REG_Class.g.cs
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\View\Registration\REG_student.g.cs
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\View\Registration\REG_user.g.cs
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\Controller\App.g.cs
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\MCSales_MarkupCompile.cache
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\MCSales_MarkupCompile.lref
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\View\ACTIndex.baml
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\View\ACTLogin.baml
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\View\CRUD\CRUD_class.baml
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\View\CRUD\CRUD_student.baml
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\View\CRUD\CRUD_user.baml
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\View\Registration\REG_Class.baml
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\View\Registration\REG_student.baml
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\View\Registration\REG_user.baml
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\MCSales.g.resources
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\MCSales.Properties.Resources.resources
+C:\Users\WORKSTATION\Google Drive\SIG\Projetos\SIG 7- MCSales\MCSales\obj\Debug\MCSales.csproj.GenerateResource.Cache
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\bin\Debug\MCSales.exe.config
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\obj\Debug\MCSales.exe
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\obj\Debug\MCSales.pdb
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\obj\Debug\MCSales.csprojResolveAssemblyReference.cache
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\obj\Debug\View\ACTIndex.g.cs
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\obj\Debug\View\ACTLogin.g.cs
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\obj\Debug\View\CRUD\CRUD_class.g.cs
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\obj\Debug\View\CRUD\CRUD_student.g.cs
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\obj\Debug\View\CRUD\CRUD_user.g.cs
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\obj\Debug\View\Registration\REG_Class.g.cs
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\obj\Debug\View\Registration\REG_student.g.cs
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\obj\Debug\View\Registration\REG_user.g.cs
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\obj\Debug\Controller\App.g.cs
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\obj\Debug\MCSales_MarkupCompile.cache
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\obj\Debug\MCSales_MarkupCompile.lref
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\bin\Debug\MCSales.exe
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\bin\Debug\MCSales.pdb
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\bin\Debug\Correios.Net.dll
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\bin\Debug\MySql.Data.dll
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\bin\Debug\Correios.Net.pdb
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\obj\Debug\View\ACTIndex.baml
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\obj\Debug\View\ACTLogin.baml
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\obj\Debug\View\CRUD\CRUD_class.baml
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\obj\Debug\View\CRUD\CRUD_student.baml
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\obj\Debug\View\CRUD\CRUD_user.baml
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\obj\Debug\View\Registration\REG_Class.baml
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\obj\Debug\View\Registration\REG_student.baml
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\obj\Debug\View\Registration\REG_user.baml
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\obj\Debug\MCSales.g.resources
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\obj\Debug\MCSales.Properties.Resources.resources
+C:\Users\WORKSTATION\Documents\Visual Studio 2015\Projects\SIG 7- MCSales\MCSales\obj\Debug\MCSales.csproj.GenerateResource.Cache
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\bin\Debug\MCSales.exe.config
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\obj\Debug\MCSales.exe
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\obj\Debug\MCSales.pdb
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\bin\Debug\MCSales.exe
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\bin\Debug\MCSales.pdb
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\bin\Debug\Correios.Net.dll
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\bin\Debug\MySql.Data.dll
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\bin\Debug\Xceed.Wpf.AvalonDock.dll
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\bin\Debug\Xceed.Wpf.DataGrid.dll
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\bin\Debug\Correios.Net.pdb
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\obj\Debug\MCSales.csprojResolveAssemblyReference.cache
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\obj\Debug\View\ACTIndex.g.cs
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\obj\Debug\View\ACTLogin.g.cs
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\obj\Debug\View\CRUD\CRUD_class.g.cs
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\obj\Debug\View\CRUD\CRUD_student.g.cs
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\obj\Debug\View\CRUD\CRUD_user.g.cs
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\obj\Debug\View\Registration\REG_Class.g.cs
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\obj\Debug\View\Registration\REG_student.g.cs
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\obj\Debug\View\Registration\REG_user.g.cs
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\obj\Debug\Controller\App.g.cs
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\obj\Debug\MCSales_MarkupCompile.cache
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\obj\Debug\MCSales_MarkupCompile.lref
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\obj\Debug\View\ACTIndex.baml
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\obj\Debug\View\ACTLogin.baml
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\obj\Debug\View\CRUD\CRUD_class.baml
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\obj\Debug\View\CRUD\CRUD_student.baml
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\obj\Debug\View\CRUD\CRUD_user.baml
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\obj\Debug\View\Registration\REG_Class.baml
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\obj\Debug\View\Registration\REG_student.baml
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\obj\Debug\View\Registration\REG_user.baml
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\obj\Debug\MCSales.g.resources
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\obj\Debug\MCSales.Properties.Resources.resources
+E:\TÁ AQUI\SIG 7- MCSales\MCSales\obj\Debug\MCSales.csproj.GenerateResource.Cache

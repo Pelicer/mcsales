@@ -1,0 +1,52 @@
+﻿<Window x:Name="sss" x:Class="MCSales.View.CRUD.CRUD_student"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MCSales.View.CRUD"
+        mc:Ignorable="d"
+        Title="Controle de Alunos" Height="720" Width="1280" Icon="/MCSales;component/Images/Icons/logo.png" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Background="#FFD2D6DE">
+
+    <!-- Remove button hover property-->
+    <Window.Resources>
+        <Style x:Key="NoHover" TargetType="Button">
+            <Setter Property="OverridesDefaultStyle" Value="True" />
+            <Setter Property="Cursor" Value="Hand" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Name="border" BorderThickness="0" BorderBrush="Black" Background="{TemplateBinding Background}">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Opacity" Value="0.8" />
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <!-- End of property-->
+
+    <Grid>
+        <Image x:Name="imgHeader" HorizontalAlignment="Left" Height="128" VerticalAlignment="Top" Width="600" Source="/MCSales;component/Images/Icons/header.png" Margin="10,10,0,0"/>
+        <DataGrid x:Name="tblStudents" HorizontalAlignment="Left" VerticalAlignment="Top" Height="376" Width="1176" Margin="44,276,0,0" Background="White" MouseDoubleClick="tblStudents_MouseDoubleClick">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="ColumnCod" Header="CTR"  Width="50" Binding="{Binding Student_ctr.}" />
+                <DataGridTextColumn x:Name="ColumnName" Header="Nome"  Width="*" Binding="{Binding Student_name}" />
+                <DataGridTextColumn x:Name="ColumnSubscribeDay" Header="Data de Inscrição"  Width="*" Binding="{Binding Student_subscriptionDate}" />
+                <DataGridTextColumn x:Name="ColumnClassDay" Header="COD. Aula"  Width="*" Binding="{Binding Class_id}" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <Canvas x:Name="CanvasHeader" HorizontalAlignment="Left" Height="77" VerticalAlignment="Top" Width="1274" Margin="0,159,0,0" Background="#FF666666" Opacity="0.4"/>
+        <Button x:Name="btnRegisterStudent" Content="Cadastrar" HorizontalAlignment="Left" VerticalAlignment="Top" Width="135" Height="40" Foreground="White" Background="#FF18A55D" Margin="44,176,0,0" Click="btnRegisterStudent_Click" Style="{StaticResource NoHover}" ToolTip="Cadastrar novo aluno."/>
+        <Button x:Name="btnViewStudent" Content="Visualizar" HorizontalAlignment="Left" VerticalAlignment="Top" Width="135" Height="40" Foreground="White" Background="#FF18A55D" Margin="184,176,0,0" Click="btnViewStudent_Click" Style="{StaticResource NoHover}" ToolTip="Visualizar aluno selecionado."/>
+        <Button x:Name="btnEditStudent" Content="Editar" HorizontalAlignment="Left" VerticalAlignment="Top" Width="135" Height="40" Foreground="White" Background="#FF18A55D" Margin="324,176,0,0" Click="btnEditStudent_Click" Style="{StaticResource NoHover}" ToolTip="Editar aluno selecionado."/>
+        <Button x:Name="btnDeleteStudent" Content="Excluir" HorizontalAlignment="Left" VerticalAlignment="Top" Width="135" Height="40" Foreground="White" Background="#FF18A55D" Margin="464,176,0,0" Click="btnDeleteStudent_Click" Style="{StaticResource NoHover}" ToolTip="Excluir aluno selecionado."/>
+        <Label x:Name="lblCount" Content="0" HorizontalAlignment="Left" Margin="1186,244,0,0" VerticalAlignment="Top" Foreground="#FF18A55D" FontSize="18" Width="34"/>
+        <Label x:Name="lblRegistersFound" Content="Registros encontrados:" HorizontalAlignment="Left" Margin="1009,247,0,0" VerticalAlignment="Top" FontSize="16"/>
+
+    </Grid>
+</Window>
